@@ -1,0 +1,34 @@
+/* EXO1*/
+section{
+    margin-top: 50px;
+    padding: 20px;
+    background-color: blue;
+    position: static;
+}
+/* EXO2*/
+div{
+    height: 100px;
+    width: 100px;
+left: 50px;
+top: 70px;
+}
+
+/* EXO3*/
+.headthree{
+background-color: green;
+border: 3px;
+position: relative;
+}
+
+/* EXO4*/
+.divone{
+top: 90%;
+right: 90%;
+}
+.divtwo{
+
+}
+.divthree{
+
+}
+
