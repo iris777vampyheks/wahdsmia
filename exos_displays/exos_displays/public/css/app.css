@@ -6,13 +6,39 @@ span{
 
 }
 /*exo2*/
+.list5{
+    display: none;
 
+}
 /*EXO3*/
-.exo3{
-    display: inline-block;
+.spanexo{
+display: block;
+}
+.strongexo{
+display: block;
+}
+.uexo{
+display: block;
+}
+/*EXO4*/
+.divexo{
+display: inline;
+}
+.hexo{
+display: inline;
+}
+.pexo{
+display: inline;
 }
 
-/*EXO4*/
-
-
 /*EXO5*/
+.squarre {
+    float:left;
+}
+
+.green{
+    float:left;
+}
+.red{
+    float:right;
+}
